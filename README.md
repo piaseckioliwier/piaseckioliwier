@@ -16,7 +16,7 @@ Here are the programming languages and technologies I am currently developing in
   
 
 ## 📫 Get in touch
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="64" height="64"> |||   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="80" height="64">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="64" height="64"> <p1></p1> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="80" height="64">
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=piaseckioliwier/piaseckioliwier)
