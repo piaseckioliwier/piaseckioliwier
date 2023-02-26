@@ -9,7 +9,7 @@ I am constantly looking for opportunities to bring technological solutions for p
 
 ## ⚡ Tech Stack
 
-Here are the programming languages and technologies I am currently developing in
+Here are the programming languages and technologies I am currently developing in:
 
   
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,mysql,html,css,js,nodejs,powershell,linux)]()
