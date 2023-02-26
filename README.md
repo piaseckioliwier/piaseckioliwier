@@ -12,18 +12,7 @@ I am constantly looking for opportunities to bring technological solutions for p
 Here are the programming languages and technologies I am currently developing in
 
   
-  ![C](https://i.imgur.com/0ZbmM7k.png)
-  ![C++](https://i.imgur.com/W5xssIK.png)
-  ![Python](https://i.imgur.com/Irs1iYY.png)
-  ![Java](https://i.imgur.com/IdxNRkq.png)
-  ![SQL](https://i.imgur.com/QtY1CHV.png)
-  ![MySQL](https://i.imgur.com/79T3P1q.png)
-  ![HTML](https://i.imgur.com/6CT8Dhy.png)
-  ![CSS](https://i.imgur.com/C9PTrWn.png)
-  ![JavaScript](https://i.imgur.com/6jgkuaH.png)
-  ![NodeJS](https://i.imgur.com/E7TDtMO.png)
-  ![PowerShell](https://i.imgur.com/6APoac1.png)
-  ![Linux](https://i.imgur.com/nnxuldf.png)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,mysql,html,css,js,nodejs,powershell,linux)](https://skillicons.dev)
   
 
 ## 📫 Get in touch
