@@ -17,7 +17,7 @@ Here are the programming languages and technologies I am currently developing in
 
 ## 📫 Get in touch
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oliwierpiasecki/)
-[![Mail]([https://cdn-icons-png.flaticon.com/512/1334/1334110.png](https://i.imgur.com/uIGE5Ww.png))](mailto:piaseckioliwier@gmail.com)
+[![Mail](https://i.imgur.com/uIGE5Ww.png)](mailto:piaseckioliwier@gmail.com)
 
 
 
