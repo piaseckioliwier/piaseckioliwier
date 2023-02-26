@@ -14,6 +14,19 @@ Here are the programming languages and technologies I am currently developing in
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
   
+  ![C](https://i.imgur.com/0ZbmM7k.png)
+  ![C++](https://i.imgur.com/W5xssIK.png)
+  ![Python](https://i.imgur.com/Irs1iYY.png)
+  ![Java](https://i.imgur.com/IdxNRkq.png)
+  ![SQL](https://i.imgur.com/QtY1CHV.png)
+  ![MySQL](https://i.imgur.com/79T3P1q.png)
+  ![HTML](https://i.imgur.com/6CT8Dhy.png)
+  ![CSS](https://i.imgur.com/C9PTrWn.png)
+  ![JavaScript](https://i.imgur.com/6jgkuaH.png)
+  ![NodeJS](https://i.imgur.com/E7TDtMO.png)
+  ![PowerShell](https://i.imgur.com/6APoac1.png)
+  ![Linux](https://i.imgur.com/nnxuldf.png)
+  
 
 ## 📫 Get in touch
 [![LinkedIn](https://i.imgur.com/c3VMls7.png)](https://www.linkedin.com/in/oliwierpiasecki/)
