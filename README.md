@@ -1,4 +1,4 @@
-
+<!--
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Oliwier Piasecki 👨‍💻
 
 I am a Applied Computer Science student at Politechnika Bydgoska and future cybersecurity engineer. zI am passionate about technologies and love to learn new things.
@@ -26,3 +26,4 @@ Here are the programming languages and technologies I am currently developing in
 
 
  
+-->
