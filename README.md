@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Oliwier Piasecki 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="30px"> Hi, I am Oliwier Piasecki 👨‍💻
 
 I am a Applied Computer Science student at Politechnika Bydgoska and future cybersecurity engineer. I am passionate about technologies and love to learn new things.
 I am constantly looking for opportunities to bring technological solutions for people from different IT backgrounds.. My work ethic is characterized by diligence, discernment, and a strong ability to collaborate with others towards a common objective. 
