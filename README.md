@@ -11,8 +11,6 @@ I am constantly looking for opportunities to bring technological solutions for p
 
 Here are the programming languages and technologies I am currently developing in
 
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
   
   ![C](https://i.imgur.com/0ZbmM7k.png)
   ![C++](https://i.imgur.com/W5xssIK.png)
