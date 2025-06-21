@@ -12,7 +12,7 @@ I am constantly looking for opportunities to bring technological solutions for p
 Here are the programming languages and technologies I am currently developing in:
 
   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,git,mysql,html,css,js,nodejs,powershell,linux)](http://piaseckioliwier.com/)
+[![My Skills](https://skillicons.dev/icons?i=py,powershell,linux)](http://piaseckioliwier.com/)
   
 
 ## 📫 Get in touch
