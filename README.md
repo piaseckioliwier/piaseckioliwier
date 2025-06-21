@@ -11,7 +11,7 @@ I am a Python Developer and a graduate of Applied Computer Science at Politechni
 Here are the programming languages and technologies I am currently developing in:
 
   
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,django,git,docker,powershell,linux,mongodb,aws)](http://piaseckioliwier.com/)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,django,git,docker,powershell,linux,mongodb,aws,kali)](http://piaseckioliwier.com/)
   
 
 ## 📫 Get in touch
