@@ -1,8 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="30px"> Hi, I am Oliwier Piasecki 👨‍💻
 
-I am a Applied Computer Science student at Politechnika Bydgoska and future cybersecurity engineer. I am passionate about technologies and love to learn new things.
-I am constantly looking for opportunities to bring technological solutions for people from different IT backgrounds. My work ethic is characterized by diligence, discernment, and a strong ability to collaborate with others towards a common objective. 
+I am a Python Developer and a graduate of Applied Computer Science at Politechnika Bydgoska. I am passionate about technology and continuously seek opportunities to expand my knowledge and skills. In the future, I aspire to become a cybersecurity engineer. I am committed, detail-oriented, and thrive in collaborative environments that aim to deliver meaningful technological solutions.
 
 ### 🔭 Have a look at my [website](http://piaseckioliwier.com/).
 
